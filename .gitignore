@@ -1,1 +1,4 @@
-pointers\.settings
+pointers/.settings
+pointers/Debug
+pointers/.cproject
+pointers/.project
